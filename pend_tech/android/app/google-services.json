@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "546828006205",
+    "project_id": "pend-53aaf",
+    "storage_bucket": "pend-53aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546828006205:android:795d30ade3b8befb308b54",
+        "android_client_info": {
+          "package_name": "com.agile.pend_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546828006205-es85t1kba92ie46afmojhi7q19j64v8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agile.pend_tech",
+            "certificate_hash": "db60964d782b7181222798bc06beea5a40919f6c"
+          }
+        },
+        {
+          "client_id": "546828006205-r4ql1nh6v51rhf5uag1bk294a6clmk6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWI0lppmZU_1kG3T_HK9TYu1UPif_YOX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546828006205-r4ql1nh6v51rhf5uag1bk294a6clmk6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
